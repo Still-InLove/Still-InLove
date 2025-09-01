@@ -1,4 +1,4 @@
-# <img src="https://www.fightersgeneration.com/characters/bbhood-mstance.gif" alt="mini-bbhood" width="40px"> Olá! Sou Eduarda, bem-vindo à minha página do Github <img src="https://www.fightersgeneration.com/characters/bbhood-mstance.gif" alt="mini-bbhood" width="40px">
+# <img src="https://www.fightersgeneration.com/characters/bbhood-mstance.gif" alt="mini-bbhood" width="20px"> Olá! Sou Eduarda, bem-vindo à minha página do Github <img src="https://www.fightersgeneration.com/characters/bbhood-mstance.gif" alt="mini-bbhood" width="20px">
 
 - 🌱 Cursando graduação em Sistemas de Informação.
   
